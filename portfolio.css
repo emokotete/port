@@ -1,0 +1,125 @@
+/*bodystyle*/
+
+body {background-color:white;margin:-5px ; padding: 0px;
+}
+/*header style*/
+header{
+	background-color:white; margin: 10px; padding: 18px; 
+	border-radius: 10px; position: sticky;
+	top: 0;
+}
+h1{
+	color:black;
+}
+/*portfolio header*/
+#port{
+	text-decoration: none; color: lightpink; margin-left: 30px; 
+	margin-right: 400px; font-size: 25px;
+}
+/*navigation buttons styling*/
+.port1 {background-color: white; padding: 5px; text-decoration: none; color: black;margin-right: 5px;
+ border-radius: 5px; font-size: 25px;
+}
+span{
+	margin-right: 30px;
+}
+/*hover design*/
+.port1:hover{
+	background-color: red; color: white;
+}
+
+/*social icon header styling*/
+.social-icon{transform:scale(1.2); margin-right:15px; font-size:25px; text-decoration: none;
+}
+
+.social-icon:hover{
+	background-color:blue ; color: white;
+}
+
+/*main style*/ 
+main{
+	background-color: lightpink; height: 500px; border-radius: 5px;
+	 padding-right: 100px; padding-left: 80px;pa
+	}
+
+/*imagefloat*/
+.image1{
+	float: right; height: 300px;width: 400px; 
+}
+.image1{
+	margin-right: 50px;margin-top: 100px; border-radius: 400px;
+}
+.btn{
+	background-color: lightpink; text-decoration: none;color: white; 
+	font-size: 20px; padding: 10px; border-radius: 15px;margin-left: 100px;
+}
+.btn:hover{
+	background-color:black; color: red;
+}
+#about{
+	background: white; padding: 10px; margin: 10px; border-radius: 10px;height: 700px;
+}
+
+#aboutp{
+	margin-left: 570px; height: 400px; font-size: 20px; text-align: center; background: lightseagreen;
+	border-radius: 20px;
+}
+
+.dev{
+	background-color: lightpink; height: 400px; display: flex;
+}
+
+.dev1{
+	flex: 1; background-color: white; 
+
+}
+.image{
+	 height: 500px; width: 600px; border-radius: 100px;
+}
+
+.dev2{
+	flex: 1; background-color: white; padding: 20px; border-radius: 10px;
+}
+
+.ed{
+	font-size: 20px;color: black;text-align: justify; font-family: sans-serif;
+}
+.ab{
+	text-align: center;font-size: 30px; color:lightpink;
+}
+.abb{
+	text-align: center;font-size: 15px; color: black;
+}
+#section1{margin-left: 40px;
+
+
+}
+#contact{
+	text-align: center;
+}
+
+
+
+.footer{
+	padding: 10px; background-color: black; text-align: center; 
+	color: white;border-radius: 10px;
+	margin-left: 10px;
+}
+
+#section2{
+	text-align: center; background: lightpink;
+}
+
+input{
+	width: 600px;height: 50px; border-radius: 10px;
+}
+textarea{
+	width: 600px; height: 50px; border-radius: 10px;
+}
+
+button{
+	background-color: lightpink; color: white; font-size: 20px; border-radius: 10px;
+}
+
+
+
